@@ -36,16 +36,6 @@ Modern event and pass management platform.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sharifu101&show_icons=true&theme=transparent" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifu101&layout=compact&theme=transparent" height="165" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/sharif-uddin10
