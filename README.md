@@ -33,8 +33,6 @@ Enterprise worklog and reporting system.
 ### 🔹 Stage Pass
 Modern event and pass management platform.
 
-### 🔹 Portfolio Website
-Personal portfolio website.
 
 ---
 
